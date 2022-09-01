@@ -7,7 +7,7 @@
 # 模板消息id
 "template_id": "e-Mo4N64J7ePja-ewmuvvFLqS9jKZ0USPS3q-cIJ8Bs",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oDilF6FVvQUea1yzEX2sQgUiQpjQ","oDilF6IVyib12JTMQ9wJ57yvZr9I"],
+"user": ["oDilF6IVyib12JTMQ9wJ57yvZr9I","oDilF6FVvQUea1yzEX2sQgUiQpjQ"],
 
 # 信息配置
 # 和风天气apikey
@@ -41,5 +41,7 @@
 "color_proposal":                 "",          # 今日建议字体颜色
 "color_chp":                      "",          # 彩虹屁字体颜色
 "color_birthday1":                "",          # 生日1字体颜色
+"color_birthday2":                "",          # 生日2字体颜色
 "color_commemoration_day1":       "",          # 纪念日1字体颜色
+"color_commemoration_day2":       "",          # 纪念日2字体颜色
 }

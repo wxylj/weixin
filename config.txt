@@ -15,7 +15,7 @@
 # 天行数据apikey
 "tian_api": "4aa988aef3bea23a057e05ffd79f71eb",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "格尔木市",
+"region": "西宁市",
 # 生日1
 "birthday1": {"name": "猪咪", "birthday": "2002-06-29"},
 # 纪念日1，会计算累计时间，格式"YYYY-MM-DD"
